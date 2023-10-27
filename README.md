@@ -1,11 +1,15 @@
+[![MasterHead](https://i.pinimg.com/1200x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg)]
 <h1 align="center">Hi 👋, I'm Atilla ARSLAN</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg">
 
 - 🔭 I’m currently working on **Node.js**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react,**
+- 👨‍💻 All of my projects are available at [https://github.com/Atilla0001?tab=repositories](https://github.com/Atilla0001?tab=repositories)
+
+- 💬 Ask me about **Web, Android**
 
 - 📫 How to reach me **infoatillaarslan@gmail.com**
 
